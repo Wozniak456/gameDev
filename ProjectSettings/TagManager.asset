@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Decorations
     uniqueID: 56928753
+    locked: 0
+  - name: Player
+    uniqueID: 2084414593
     locked: 0
   - name: Default
     uniqueID: 0
