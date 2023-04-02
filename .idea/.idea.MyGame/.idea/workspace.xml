@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64f69a1a-3c99-4c03-a6f0-3ccb04b9d2b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Core/Enum/Direction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Core/Enum/Direction.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel art pack - Rousette/Art/rousette1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2D Pixel art pack - Rousette/Art/rousette1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Pixel art pack - Rousette/Art/rousette2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2D Pixel art pack - Rousette/Art/rousette2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player_Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player_Jump.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo/Demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bolt 2D DinoRun VE1/Demo/Demo.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grass .prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grass .prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MyScene/Slippery.physicsMaterial2D" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MyScene/Slippery.physicsMaterial2D" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +19,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Tools/DirectionalCameraPair.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyGFX.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemCollector.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -91,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1680205526115</updated>
       <workItem from="1680205528588" duration="4935000" />
-      <workItem from="1680278112819" duration="10689000" />
+      <workItem from="1680278112819" duration="13432000" />
+      <workItem from="1680435418875" duration="4061000" />
     </task>
     <servers />
   </component>
